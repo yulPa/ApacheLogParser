@@ -12,7 +12,7 @@ func main() {
         log_path := flag.String("log", "", "Log Path")
         flag.Parse()
 
-        stats, err := yulparserApache.ParseLogFile_Get_Stats(*log_path)
+        stats, err := ApacheLogParser.ParseLogFile_Get_Stats(*log_path)
         if err != nil {
                 log.Fatal(err)
         }
