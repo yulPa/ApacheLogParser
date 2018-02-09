@@ -1,7 +1,7 @@
 package main
 
 import (
-        "github.com/yulPa/yulparserApache"
+        "github.com/yulPa/ApacheLogParser"
         "flag"
         "fmt"
         "log"

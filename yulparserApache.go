@@ -1,4 +1,4 @@
-package yulparserApache
+package ApacheLogParser
 
 import (
         "bufio"
