@@ -1,4 +1,4 @@
-### yulparserApache 
+### ApacheLogParser 
 
 Simple Apache log parser that will return a Json string containing counters from a log file input. 
 
